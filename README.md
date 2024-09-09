@@ -1,8 +1,18 @@
-# 🏄‍♂️ Forrest Knight
+# 🏉 Rayane Guerrouah
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Eternally Curious & Data Tinkerer 👨‍🚀 Data Analyst ▪️ Tracking & Scraping 🫶🏼`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 500k subscribers.
+🚀 Welcome to my profile!
+
+I’m Rayane, a data enthusiast on an exciting journey of discovery! Currently training at LeWagon Bordeaux, I’m having a blast with SQL and diving into Python programming, and I've even rediscovered my passion for scraping! 😁
+
+🌟 What I do: With a background in web analytics and web tracking, I’m skilled in creating dashboards and analyzing data. I love exploring and turning data into impactful insights.
+
+🔍 What I'm looking for: I’m on the lookout for an opportunity to apply my skills in a dynamic startup or an innovative SME. Eager to deepen my knowledge in Python and machine learning!
+
+💡 My personality: Curious, cheerful (and a bit of a joker), enthusiastic, and always ready to take on new challenges, I have a team spirit and a proactive approach. I love learning, sharing my discoveries, and contributing to exciting projects.
+
+✨ If you’re looking for a data enthusiast ready to add value to your projects, let’s connect! I’m excited to collaborate on stimulating projects.
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
